@@ -1,0 +1,29 @@
+ h1{
+  color:rgb(99, 193, 221);
+  }
+
+*{
+  border: solid;
+}
+
+.header{
+  background-color: lavender;
+  display: flex;
+  justify-content: space-between;
+}
+
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  
+}
+
+.footer{
+  display: flex;
+  justify-content: flex-end;
+}
+
+body{
+  background-color: #d3faf6;
+}
